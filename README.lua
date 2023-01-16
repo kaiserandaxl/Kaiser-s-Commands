@@ -1,4 +1,9 @@
 --[[
+YOU WON'T BE ABLE TO USE THEM UNLESS YOU ACTUALLY BUY ACCESS HERE: https://discord.gg/csVEhuFh79
+
+
+
+
 # Kaiser-s-Commands
 My admin commands
 Hello, this is version 1.0.0 of Kaiser's admin commands I'll teach you how to configure the commands to work for you, and do what you want.
